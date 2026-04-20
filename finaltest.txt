@@ -1,0 +1,3 @@
+Cached credential store manager is working good.
+it keeps the cred in memory, better that storing it on text file in system.
+command: git config --global credential.helper cache
